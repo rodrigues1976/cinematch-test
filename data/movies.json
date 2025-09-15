@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Mad Max: Fury Road",
+    "genres": ["Ação", "Aventura"],
+    "year": 2015,
+    "globalRating": 4.5,
+    "image": "/placeholder.svg?height=400&width=300",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "title": "John Wick",
+    "genres": ["Ação", "Thriller"],
+    "year": 2014,
+    "globalRating": 4.2,
+    "image": "/placeholder.svg?height=400&width=300",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "title": "The Dark Knight",
+    "genres": ["Ação", "Crime", "Drama"],
+    "year": 2008,
+    "globalRating": 4.8,
+    "image": "/placeholder.svg?height=400&width=300",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "title": "Avengers: Endgame",
+    "genres": ["Ação", "Aventura", "Ficção Científica"],
+    "year": 2019,
+    "globalRating": 4.6,
+    "image": "/placeholder.svg?height=400&width=300",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "title": "Die Hard",
+    "genres": ["Ação", "Thriller"],
+    "year": 1988,
+    "globalRating": 4.3,
+    "image": "/placeholder.svg?height=400&width=300",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  }
+]
